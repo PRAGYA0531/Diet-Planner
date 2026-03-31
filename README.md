@@ -1,4 +1,3 @@
-# Diet-Planner
 # AI-Based Diet Planner (GUI Version)
 
 ##  Overview
