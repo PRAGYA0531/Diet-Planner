@@ -23,7 +23,7 @@ The system predicts daily calorie requirements and suggests a suitable diet plan
 - Tkinter  
 
 
-• 📂 Project Structure
+## 📂 Project Structure
 
 -  [dataset.csv](./dataset.csv)
 -  [model.py](./model.py)
