@@ -1,0 +1,11 @@
+age,gender,weight,activity,goal,calories,diet
+22,1,70,2,0,2200,Balanced
+25,0,60,1,1,1500,Low Carb
+30,1,80,3,2,2800,High Protein
+28,0,55,2,1,1600,Low Carb
+35,1,90,3,2,3000,High Protein
+40,0,65,1,0,1800,Balanced
+19,1,60,2,0,2100,Balanced
+45,0,70,1,1,1700,Low Carb
+32,1,85,3,2,2900,High Protein
+27,0,58,2,0,1900,Balanced
