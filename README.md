@@ -1,12 +1,12 @@
 # Diet-Planner
 # AI-Based Diet Planner (GUI Version)
 
-•  Overview
+##  Overview
 This project is an AI-based diet planner that provides personalized diet recommendations using Machine Learning. It uses a graphical user interface (GUI) for easy interaction.
 The system predicts daily calorie requirements and suggests a suitable diet plan based on user inputs like age, gender, weight, height, activity level, and fitness goal.
 
 
-• Features
+## Features
 -  Calorie prediction using Linear Regression  
 -  diet recommendation using k-Nearest Neighbors (KNN)  
 -  BMI calculation with health category  
@@ -15,7 +15,7 @@ The system predicts daily calorie requirements and suggests a suitable diet plan
 -  Input options using text (Male/Female, Low/Moderate/High, Maintain/Gain/Loss)
 
 
-• Technologies Used
+## Technologies Used
 - Python  
 - Pandas  
 - NumPy  
@@ -36,17 +36,17 @@ The system predicts daily calorie requirements and suggests a suitable diet plan
 👉 Click any file above to open it.
 
 
-• Installation
+## Installation
 
 1. Install Python 3.11  
 2. Install required libraries:
 
 
-• How to run the GUI application
+## How to run the GUI application
 python gui.py
 
 
-• Input Parameters
+## Input Parameters
 - Age
 - Gender (Male / Female)
 - Weight (kg)
@@ -55,14 +55,14 @@ python gui.py
 - Goal (Maintain / Weight Loss / Weight Gain)
 
 
-• Output
+## Output
 - BMI value and category
 - daily calorie requirement
 - recommended diet type
 - Complete meal plan
  
  
-• Future Improvements
+## Future Improvements
 - Add advanced UI design
 - Integrate real-world datasets
 - Add disease-specific diet plans (Diabetes, etc.)
